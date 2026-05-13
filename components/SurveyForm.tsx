@@ -21,15 +21,13 @@ import { CheckCircle2, AlertCircle } from "lucide-react";
 const departments = [
   "Computer Science",
   "Business Administration",
-  "Engineering",
   "Social Sciences",
-  "Medicine",
   "Law",
-  "Arts and Humanities",
+  "Nursing",
   "Environmental Science",
 ];
 
-const genders = ["Male", "Female", "Other"];
+const genders = ["Male", "Female"];
 const restaurants = ["Polygon", "Ready-Rides"];
 
 export const SurveyForm = () => {
